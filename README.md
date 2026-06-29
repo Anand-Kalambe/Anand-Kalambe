@@ -131,13 +131,17 @@ Official chapter website built using
 
 # 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anand-Kalambe&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand-Kalambe&theme=tokyo-night" />
+</p>
 
 ---
 
 # 🏅 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anand-Kalambe&theme=algolia&margin-w=15&margin-h=15&row=1&column=6" />
+</p>
 
 ---
 
@@ -155,16 +159,16 @@ Official chapter website built using
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Anand-Kalambe" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="mailto:anandkalambe1203@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
@@ -173,7 +177,7 @@ Official chapter website built using
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Anand-Kalambe&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 ⭐ Thanks for visiting my profile!
 
