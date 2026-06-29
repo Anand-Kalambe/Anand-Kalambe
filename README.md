@@ -131,7 +131,7 @@ Official chapter website built using
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anand-Kalambe&show_icons=true&theme=tokyonight)
 
 ---
 
