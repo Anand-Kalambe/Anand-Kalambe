@@ -119,15 +119,7 @@ Official chapter website built using
 
 ---
 
-# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 # 📈 Contribution Graph
 
@@ -159,7 +151,7 @@ Official chapter website built using
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank](https://www.linkedin.com/in/anand-kalambe-79ab2834a/)">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
