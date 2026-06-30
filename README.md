@@ -129,13 +129,7 @@ Official chapter website built using
 
 ---
 
-# 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anand-Kalambe&theme=algolia&margin-w=15&margin-h=15&row=1&column=6" />
-</p>
-
----
 
 # 🔥 Current Goals
 
@@ -151,7 +145,7 @@ Official chapter website built using
 
 <p align="left">
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank](https://www.linkedin.com/in/anand-kalambe-79ab2834a/)">
+<a href="https://www.linkedin.com/in/anand-kalambe-79ab2834a/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
